@@ -1,4 +1,4 @@
-# Push-Notification-NodeJs-Server
+# Push-Notification-NodeJs-Server-React-Native
 
 ## stpes to run:
 ```
